@@ -1,0 +1,2 @@
+# Sample-Size-Determination-for-Population-Mean-using-Systematic-Sampling
+This project focuses on estimating the population mean using systematic sampling. Systematic sampling involves selecting units from an ordered population at regular intervals after a random start.  An R Shiny application is used to demonstrate how sample size selection and survey design are influenced by sampling bias, cost, and time constraints.
